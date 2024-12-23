@@ -3,7 +3,7 @@
 * Plugin Name: WooCommerce MercadoLibre Sync
 * Description: Sincroniza productos de WooCommerce con MercadoLibre
 * Version: 1.8.5
-* Author: CRISTIAN, JIMMY, FELIPE Y MARCO
+* Author: CRISTIAN, JIMMY, FELIPE
 * Text Domain: woo-ml-sync
 * Domain Path: /languages
 */
