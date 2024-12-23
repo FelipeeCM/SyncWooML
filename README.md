@@ -53,7 +53,7 @@ WooCommerce MercadoLibre Sync es un potente plugin de WordPress que integra perf
 
 Para soporte técnico, por favor contacta con nuestro equipo a través de:
 
-* Email:cristianmolinauc@gmail.com, f.cmardones23@gmail.com
+* Email:cristianmolinauc@gmail.com, f.cmardones23@gmail.com, jimmymunosoliva@gmail.com
 
 ---
 
